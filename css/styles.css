@@ -163,6 +163,10 @@ img {
   padding: 120px 0;
 }
 
+.benefits-item {
+  width: calc((100% - 72px) / 4);
+}
+
 .benefits-subtitle {
   font-weight: 500;
   font-size: 20px;
