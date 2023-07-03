@@ -100,14 +100,13 @@ img {
 .header-navigation {
   display: flex;
   align-items: center;
-  flex-grow: 1;
+  margin-right: auto;
 }
 
 .header-menu,
 .address-list {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 
 .container {
@@ -314,8 +313,6 @@ img {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
-  height: 48px;
-  width: 126px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #4d5ae5;
